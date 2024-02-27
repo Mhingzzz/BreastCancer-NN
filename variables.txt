@@ -1,0 +1,25 @@
+                           name     role         type demographic  \
+0            Sample_code_number       ID  Categorical        None   
+1               Clump_thickness  Feature      Integer        None   
+2       Uniformity_of_cell_size  Feature      Integer        None   
+3      Uniformity_of_cell_shape  Feature      Integer        None   
+4             Marginal_adhesion  Feature      Integer        None   
+5   Single_epithelial_cell_size  Feature      Integer        None   
+6                   Bare_nuclei  Feature      Integer        None   
+7               Bland_chromatin  Feature      Integer        None   
+8               Normal_nucleoli  Feature      Integer        None   
+9                       Mitoses  Feature      Integer        None   
+10                        Class   Target       Binary        None   
+
+                  description units missing_values  
+0                        None  None             no  
+1                        None  None             no  
+2                        None  None             no  
+3                        None  None             no  
+4                        None  None             no  
+5                        None  None             no  
+6                        None  None            yes  
+7                        None  None             no  
+8                        None  None             no  
+9                        None  None             no  
+10  2 = benign, 4 = malignant  None             no  
